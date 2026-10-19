@@ -1,0 +1,6 @@
+{
+  "name": "ProjectHub - Academic Project Discovery & Management",
+  "description": "A centralized academic project discovery and management platform with project marketplace and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
